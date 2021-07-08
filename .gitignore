@@ -1,0 +1,8 @@
+__pycache__/
+.git
+.idea
+.python-version
+.DS_Store
+.coverage
+dist
+data
