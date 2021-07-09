@@ -115,7 +115,9 @@ There is no guaranteed support available, but authors will try to keep up with i
 and merge proposed solutions into the code base.
 
 ## Project Status
-This project is funded by the European Commission and is currently (2021) under active developement.
+This project is currently being developed by the [Openpolis Foundation](https://www.openpolis.it/openpolis-foundation/)
+and does only cover those parts of the Linkurious API that are needed in the Foundation's projects. 
+Should more be needed, you can either ask to increase the coverage, or try to contribute, following instructions below.
 
 ## Contributing
 In order to contribute to this project:
