@@ -1,4 +1,4 @@
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 
 
 from typing import Optional, List, Any
@@ -106,6 +106,11 @@ class Linkurious(object):
 
         see https://doc.linkurio.us/server-sdk/2.10.9/apidoc/#api-DataSource-getDataSources
         """
+        # boolean true must be transformed into 1, to be  understood by the linkkurious API
+        if with_styles:
+            with_styles = 1
+        if with_captions:
+            with_captions = 1
         return self.get_wrapper().dataSources.get(params={'with_styles': with_styles, 'with_captions': with_captions})
 
     def get_sources_info(self):
