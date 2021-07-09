@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "linkurious"
-version = "0.1.2"
+version = "0.1.3"
 description = "Python wrapper around linkurious API"
 authors = ["guglielmo <guglielmo@openpolis.it>"]
 readme = "README.md"
