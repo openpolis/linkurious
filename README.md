@@ -1,4 +1,10 @@
-## Description
+[![Latest Version](https://img.shields.io/pypi/v/linkurious.svg)](https://pypi.python.org/pypi/linkurious)
+[![Latest Version](https://img.shields.io/pypi/pyversions/linkurious.svg)](https://pypi.python.org/pypi/linkurious)
+[![License](https://img.shields.io/pypi/l/linkurious.svg)](https://pypi.python.org/pypi/linurious)
+[![Downloads](https://pepy.tech/badge/linkurious/month)](https://pepy.tech/project/linkurious/month)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/openpolislab)](https://twitter.com/openpolislab)
+
 
 linkurious is a [tortilla](https://github.com/tortilla/tortilla) based python wrapper around the
 [Linkurious HTTP REST API](https://doc.linkurio.us/server-sdk/latest/apidoc/)
